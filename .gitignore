@@ -2,3 +2,4 @@
 bwa
 test
 .*.swp
+.DS_Store
